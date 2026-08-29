@@ -1,10 +1,10 @@
 This work is created by William D. Colburn for his own personal use.
 
-Geste is, according to Google, is an Old French word meaning a heroic
-deed, a historical account, or a family lineage.  It comes from the
-Latin word gesta meaning actions accomplished or exploits.  All of this
-leads back to the Chanson de Gesta.  It feels like a good name for a
-campaign world.
+Geste is, according to Google, an Old French word meaning a heroic deed,
+a historical account, or a family lineage.  It comes from the Latin word
+gesta meaning actions accomplished or exploits.  All of this leads back
+to the Chanson de Gesta.  It feels like a good name for a campaign
+world.
 
   https://en.wikipedia.org/wiki/Chanson_de_geste
 
@@ -12,7 +12,7 @@ campaign world.
 
 The updates/ directory is intended to contain long-form prose of my
 thoughts as I work on this.  Formated as yyyy-mm-dd-nnn to make sorting
-easier.
+easier.  Normally formatted prose is acceptable in updates.
 
 The maps/ directory is for all maps created.  There should be the main
 continent level .wxx and .png files (Worldographer), as well as other
