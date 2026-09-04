@@ -1,0 +1,55 @@
+2026-09-04 001
+
+I made a reference of D&d languages for my own use.
+
+PHB:Standard:Common
+PHB:Standard:Common Sign Language
+PHB:Standard:Draconic
+PHB:Standard:Dwarvish
+PHB:Standard:Elvish
+PHB:Standard:Giant
+PHB:Standard:Gnomish
+PHB:Standard:Goblin
+PHB:Standard:Halfling
+PHB:Standard:Orc
+PHB:Rare:Abyssal
+PHB:Rare:Celestial
+PHB:Rare:Deep Speech
+PHB:Rare:Druidic
+PHB:Rare:Infernal
+PHB:Rare:Primordial (Aquan, Aurian, Ignan, Terran)
+PHB:Rare:Sylvan
+PHB:Rare:Thieve's Cant
+PHB:Rare:Undercommon
+PHB:Druid:Druidic
+MM:Aarakokra
+MM:Bullywug
+MM:Gith
+MM:Gnoll
+MM:Hook Horror
+MM:Modron
+MM:Otyugh
+MM:Sahuagin
+MM:Slaad
+MM:Thri-kreen
+MM:Troglodyte
+MM:Umber Hulk
+MM:Worg
+MM:Yeti
+
+WG83:Common (Ancient Baklunish and Old Oeridian)
+WG83:Suloise
+WG83:Flan
+WG83:Ancient Baklunish
+WG83:Oeridian
+WG83:Ferral (Oeridian)
+WG83:Nyrondese (High Oeridian dialect of Common)
+WG83:The Cold Tongue|Fruz (Suloise and Flan)
+WG83:Velondi (Old Oeridian)
+WG83:Keolandish (Old High Oeridian)
+WG83:Lendorian (Suloise)
+
+D&D is leaning back towards the World of Greyhawk again, so I included
+some language info from the World of Greyhawk set from 1983.  It was
+more nuanced than my simplified text file can handle.
+

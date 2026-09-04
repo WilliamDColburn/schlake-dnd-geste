@@ -1,0 +1,72 @@
+2028-08-29 001
+==============
+
+I need to pick a world size.
+
+Google tells me that in medieval times, people lived as far north as the
+mid 60 desgrees in latitude.  I had always assuemed a world should go up
+to 80 degrees latitude.  The limit comes down to being able to grow
+crops.  So if you can survive without crops, you can live further north.
+So between 60 and 80 degrees latitude isn't a place that humans can
+settle down, just pass through, and they would be cold and miserablea.
+I feel like orcs could survive up to 80 degressin latitude, and I've
+always liked the idea of orcs being wolf riding nomads in the cold dark
+north.  Nomads makes a lot of sense, because their only food source
+would be arctic animals and fish.  I think a good width for a world is
+about the size of the United States.
+
+Based on an ideal Earth of 10000km from the equator to the north pole,
+where the Tropic of Cancer is at 23.5 degrees, and the Arctic Circle is
+at 66.5 degrees, we can simplify down to something nice for this world.
+
+  The Arctic zone, from 80 degrees to 90 degrees.
+  The Sub-Arctic zone, from 60 degrees to 80 desgrees.
+  The Temperate zone, from 40 degrees to 60 degrees.
+  The Arid zone, from from 20 degrees to 40 degrees.
+  The Tropical zone, from 0 degrees to 20 degrees.
+
+Based on our assumptions of an ideal Earth, it is 9000km from the
+equator to 80 degrees latitude.  That is just over 5592 miles, or 932
+six-miles hexes, which divides into four 233 six-mile hex zones.  Both
+are suprisingly nicely round numbers.  That leaves 1000km, or almost 104
+six-mile hexes to get to the north pole.  I won't include those 104
+hexes at the top, so our map is just 932 six-mile hexes tall.  For
+simplicity, I shall assume the world is a cylinder, to avoid map
+projections, and if someone makes it to the North Pole, they can just
+find a cliff edge yawning into the Astral Plane.
+
+Humanity lives easily in the temperate zone, and can live in the arid
+and tropical zones.  Journeys into the sub arctic zone are possible, but
+settling down to live without outside supplies isn't feasible.
+
+The underdark does exist, and humanity does poorly there.  It is just as
+inhospitable to them as the sub-arctic.
+
+As for the width, I like the idea of the map being as large as the
+United States.  Assume an ideal Unity States of 2800 miles. Almost three
+times as wide as Western Europe, and Western Europe is the basis for the
+setting of D&D.  If my map was 467 six-miles hexes across it would cover
+that size.  That would be 435244 six-miles hexes.  A lot of hexes for me
+to make.  I mentioned Europe, because it is also a fine size for a
+campaign world, and much smaller.  My map could be quite generous with
+the oceans, perhaps even half the map.
+
+My continent will have two major mountain ranges, one in the east and
+one in the west, much like the United States.  Google says the
+Appalachian mountains are 50 to 100 miles at the north end (in Canada)
+and 200 to 300 at the southern end (in the United States).  I'll need
+rivers to come out to have cities on.  There are almost 17 six-mile
+hexes per one-hundred miles.
+
+In medieval times, the market laws didn't let markets be closer than
+about six miles.  That kept the markets monopolies, and ensured people
+were within walking distance (there, and back, with time to buy and
+sell).  Not sure why that came to my mind right here...
+
+I should start my map by laying out the mountains.  I should keep in
+mind that my mountains are likely caused by tectonic plate movement.
+Mostly north/south lines, but not straight.  Then I can flesh out the
+mountains into ranges, then add terrainn around it.
+
+
+
