@@ -1,0 +1,8 @@
+2026-09-04 002
+
+Map height is 932 hexes.
+Map width is 467 hexes.
+There are 102 more hexes north of my map that I won't map.
+
+The southrn, tropical area north of the equator should be seperated from
+the main landmass by a single six-mile hex of ocean.
